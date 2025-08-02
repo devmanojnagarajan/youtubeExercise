@@ -41,4 +41,4 @@ Front-End:
 
     CSS3: For styling, including Flexbox and CSS Grid for complex layouts.
 
-This project is a part of my learning skills twards becoming a full stack developer.    
+This project is a part of my learning skills towards becoming a full stack developer.    
