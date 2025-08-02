@@ -1,4 +1,4 @@
-YouTube Homepage Clone
+YouTube Homepage Exercise
 
 A responsive, pixel-perfect clone of the YouTube homepage built to practice and showcase modern web development skills. This project focuses on recreating the complex layout and dynamic components of YouTube's user interface using clean, efficient code.
 
